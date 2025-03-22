@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bzm10
 - 👀 I’m interested in machine learning and AI. I like to play around with these technologies.
 - 🌱 I’m currently learning a machine learning course and want to learn even more.
-- 💻 I use Python for most of my projects, like making small apps for fun. I'm also learning C to make my programs faster.
+- 💻 I use Python for most of my projects, like making small apps for fun. I also code Arduinos and make projects with them.
 - 📚 I like to share what I learn and help others too.
 - ✨ I'm always trying to learn new things and get better at what I do.
